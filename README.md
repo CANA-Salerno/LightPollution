@@ -54,7 +54,7 @@ Value2(mag/arcs^2,SQM-band): the second measurement of the series; it gives of t
 
 Value3(mag/arcs^2,SQM-band): the third measurement of the series; it gives of the night sky brightness measurements obtained with the SQM (mag/arcsec^2,visible bands+IR-cut) 
 
-Value3(mag/arcs^2,SQM-band): the fourth measurement of the series; it gives of the night sky brightness measurements obtained with the SQM (mag/arcsec^2,visible bands+IR-cut) 
+Value4(mag/arcs^2,SQM-band): the fourth measurement of the series; it gives of the night sky brightness measurements obtained with the SQM (mag/arcsec^2,visible bands+IR-cut) 
 
 Error: the standard deviation of the 4 measurement series	(the nominal error for each measurement is +/- 0.1 mag/arcsec^2)
 
